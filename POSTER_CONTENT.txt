@@ -1,0 +1,27 @@
+FIT-FEST 2026 HACKATHON
+
+OPPORTUNITYHUB
+Student Opportunity Discovery Platform
+
+PROBLEM
+Students miss valuable internships, hackathons, scholarships, certifications, competitions, workshops and courses because information is scattered across multiple platforms.
+
+OUR SOLUTION
+A single platform where students create a profile and discover relevant opportunities based on their skills, interests and preferred categories.
+
+KEY FEATURES
+• Student Profile
+• Opportunity Search & Filtering
+• Skill/Interest-based Recommendations
+• Internships & Hackathons
+• Courses & Certifications
+• Scholarships & Competitions
+• Save / Bookmark
+• Student Dashboard
+• Opportunity Details & External Links
+
+TECH STACK
+React • Vite • Node.js • Express • HTML • CSS • JavaScript
+
+FIT-FEST 2026
+Flora Institute of Technology

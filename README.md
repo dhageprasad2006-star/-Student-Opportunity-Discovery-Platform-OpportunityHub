@@ -73,21 +73,6 @@ docker run -p 8080:8080 opportunityhub
 Open:
 http://localhost:8080
 
-## Google Cloud Run
-
-1. Create/select a Google Cloud project.
-2. Enable Cloud Run and Cloud Build.
-3. Upload/push this repository to GitHub.
-4. Build and deploy the container to Cloud Run.
-5. Ensure the service listens on the `PORT` environment variable. This project already uses `process.env.PORT || 8080`.
-6. Submit the Cloud Run HTTPS URL.
-
-Example Cloud CLI flow:
-
-```bash
-gcloud auth login
-gcloud config set project YOUR_PROJECT_ID
-gcloud run deploy opportunityhub --source . --region asia-south1 --allow-unauthenticated
 ```
 
 ## Hackathon submission checklist

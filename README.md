@@ -75,21 +75,4 @@ http://localhost:8080
 
 ```
 
-## Hackathon submission checklist
-
-- [ ] Public GitHub repository
-- [ ] Working Google Cloud Run URL
-- [ ] Public LinkedIn/Instagram post
-- [ ] Project poster
-- [ ] README documentation
-- [ ] Screenshots/demo
-
-## Important
-The sample opportunity URLs are placeholders for the hackathon MVP. Replace them with real opportunity URLs before the final demo/submission if you want the external links to lead to real opportunities.
-
-## Project idea for presentation
-Problem → scattered student opportunities
-
-Solution → one platform with profile, discovery, filters, recommendations and bookmarks
-
 Impact → reduces search effort and helps students find opportunities relevant to their skills and interests.
